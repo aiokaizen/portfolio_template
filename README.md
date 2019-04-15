@@ -1,1 +1,1 @@
-This project containes the template of my personal blog site.
+This project containes the template of Mouad Kommir's personal blog site.
